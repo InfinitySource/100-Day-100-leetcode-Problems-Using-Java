@@ -1,4 +1,4 @@
-// Power of Tow 
+// 231.Power of Tow 
 
 import java.util.Scanner;
 
