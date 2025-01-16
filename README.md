@@ -8,3 +8,11 @@ Problem link: [leetcode](https://leetcode.com/problems/palindrome-number/descrip
 Day 2 <br>
 Problem 2: Power of Two <br>
 Problem link: [leetcode](https://leetcode.com/problems/power-of-two/description/).
+
+Day 3 <br>
+Problem 3: Fibonacci Number <br>
+Problem link: [leetcode]([https://leetcode.com/problems/power-of-two/description/](https://leetcode.com/problems/fibonacci-number/description/)).
+
+Day 4 <br>
+Problem 4: N-th Tribonacci Number <br>
+Problem link: [leetcode]([https://leetcode.com/problems/power-of-two/description/](https://leetcode.com/problems/n-th-tribonacci-number/)).
